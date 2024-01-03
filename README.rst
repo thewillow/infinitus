@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+The Infinitus Community
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Hi, I am Willow. I am using this as a simple and geeky way to write documentations about the Infinitus Community. The contents are automatically published at https://infinitus.readthedocs.org.  
 
-Read the tutorial here:
+This is cool since I can focus on writing instead of wasting time on designing a website, or having to learn to code, or struggle with the slow web-based, no-code CMS solutions.  
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Putting this on Git also helps me with transparency and accountability.  
