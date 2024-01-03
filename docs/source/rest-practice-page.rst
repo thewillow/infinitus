@@ -74,3 +74,4 @@ Contents
 
    usage
    api
+   rest-practice-page
