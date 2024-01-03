@@ -1,8 +1,3 @@
-.. meta::  
-	:description: a practice page to learn rst  
-	:keywords: reST, restructured text, markup, markdown  
-
-
 ===================================
 This is just a practice page! 
 ===================================
