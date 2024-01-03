@@ -46,7 +46,7 @@ G.K. Chesterton did **not** say:
 
 	The best thing in the world is a purring cat.  
 	
-A link is added to a 'website <https://duckduckgo.com/>'_.  
+A link is added to a `website <https://duckduckgo.com/>`_.  
 
 Or, something like this_.  
 
