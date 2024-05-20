@@ -5,7 +5,7 @@ Infinitus Ministries
 
 .. note:: 
 
-	**infinitusministries.net** and **www.infinitusministries.net** redirect to here. For our online forums, go to `forums.infinitusministries.net <https://forums.infinitusministries.net>`_. 
+	**infinitusministries.net** and **www.infinitusministries.net** redirect to here. For our online forums, go to `forums.infinitusministries.net <https://forums.infinitusministries.net>`_.  
 
 .. note:: 
 
