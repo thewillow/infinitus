@@ -38,7 +38,7 @@ General questions about Infinitus Ministries at large
 
 #. Are you affiliated with any denomination or a missionary organization? 
 
-	No. We are a fully independent endeavor. We take no money or order from any denomination or mission agency. We strongly believe in the importance of a self-governing, self-propagating, and self-supporting community that is locally governed by the consensus of its members. 
+	No. We are a fully independent endeavor. We take no money or order from any denomination or mission agency. We strongly believe in the importance of a self-governing, self-propagating, and self-supporting community that is locally governed by the consensus of its members.
 
 
 #. How is Infinitus Ministries organized and operated?  
