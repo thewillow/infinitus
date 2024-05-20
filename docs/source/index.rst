@@ -65,7 +65,7 @@ Social media
 
 	* `Instagram @infinituscommunity <https://instagram.com/infinituscommunity>`_  
 	* `Threads @infinituscommunity <https://www.threads.net/@infinituscommunity>`_  
-	* `PixelFed @infinitus@shared.graphic <https://shared.graphic/infinitus>`_
+	* `PixelFed @infinitus@shared.graphics <https://shared.graphics/infinitus>`_ - Fediverse - follow from Mastodon, Pleroma and Misskey too! 
 	* `BlueSky @infinituscommunity.bsky.social <https://bsky.app/profile/infinituscommunity.bsky.social>`_ 
 
 Online forums
