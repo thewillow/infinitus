@@ -35,7 +35,7 @@ Questions about the church (Infinitus Community)
 
 
 General questions about Infinitus Ministries at large  
-----------------------------------------------------------
+---------------------------------------------------------
 
 #. How can I support you? 
 
