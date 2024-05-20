@@ -9,7 +9,7 @@ Infinitus Ministries
 
 .. note:: 
 
-	**Infinitus Ministries** is a collective brand referring to three distinct things: *Infinitus Explorations*, *Infinitus Media & Resources*, and *Infinitus Community*. This documentation site outlines the overarching vision, missions, and aims of Infinitus, as well as the common foundational elements such as distinctives and values. Beyond those, this site will focus primarily on our community initiatives and how you can participate in and be part of this new community. As Infinitus Community grows, this will be where we will be publishing governance-related documents, policies, and manuals (we eschew bureaucracy so we'll be light on those, though!) for the sake of transparency. Since the docs are recorded on `Github <https://github.com/thewillow/infinitus>`_, one can review past changes and history. Contents specific to *Infinitus Media & Resources* and *Infinitus Explorations* will be found elsewhere.  	
+	**Infinitus Ministries** is a collective brand referring to three distinct things: *Infinitus Explorations*, *Infinitus Media & Resources*, and *Infinitus Community*. This documentation site outlines the overarching vision, missions, and aims of Infinitus, as well as the common foundational elements such as distinctives and values. Beyond those, this site will focus primarily on our community initiatives and how you can participate in and be part of this new community. As Infinitus Community grows, this will be where we will be publishing governance-related documents, policies, and manuals (we eschew bureaucracy so we'll be light on those, though!) for the sake of transparency. Since the docs are recorded on `Github <https://github.com/thewillow/infinitus>`_, one can review past changes and history. Contents specific to *Infinitus Media & Resources* will be hosted elsewhere on other platforms, such as Substack and Spotify.  	
  
 Introduction  
 -----------------------------------
@@ -88,7 +88,7 @@ Email
 
 .. note::
 
-   This project is under active development. Last update: 2024-05-19 
+   This project is under active development. Last update: 2024-05-20 
 
 Contents
 --------
@@ -98,6 +98,8 @@ Contents
 	index
 	distinctives
 	organizing
+	faq
+
 
 
 
