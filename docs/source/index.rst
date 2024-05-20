@@ -5,6 +5,10 @@ Infinitus Ministries
 
 .. note:: 
 
+	**infinitusministries.net** and **www.infinitusministries.net** redirect to here. For our online forums, go to `forums.infinitusministries.net <https://forums.infinitusministries.net>`_. 
+
+.. note:: 
+
 	**Infinitus Ministries** is a collective brand referring to three distinct things: *Infinitus Explorations*, *Infinitus Media & Resources*, and *Infinitus Community*. 	
  
 Introduction  
