@@ -95,6 +95,7 @@ Contents
 
 .. toctree::
 
+	index
 	distinctives
 
 
