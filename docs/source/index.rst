@@ -3,8 +3,7 @@ Infinitus Ministries
 
 **Welcome to Infinitus!**  
 
-..admonition:: Please note 
-	:class: note
+.. note:: 
 
 	**Infinitus Ministries** is a collective brand referring to three distinct things: *Infinitus Explorations*, *Infinitus Media & Resources*, and *Infinitus Community*. 	
 
@@ -64,22 +63,22 @@ Connect
 Social media
 ^^^^^^^^^^^^^^^^^^
 
-	* `Instagram @infinituscommunity <https://instagram.com/infinituscommunity>`._  
-	* `Threads @infinituscommunity <https://www.threads.net/@infinituscommunity>`._  
-	* `PixelFed @infinitus@shared.graphic <https://shared.graphic/infinitus>`._
-	* `BlueSky @infinituscommunity.bsky.social <https://bsky.app/profile/infinituscommunity.bsky.social>`._ 
+	* `Instagram @infinituscommunity <https://instagram.com/infinituscommunity>`_  
+	* `Threads @infinituscommunity <https://www.threads.net/@infinituscommunity>`_  
+	* `PixelFed @infinitus@shared.graphic <https://shared.graphic/infinitus>`_
+	* `BlueSky @infinituscommunity.bsky.social <https://bsky.app/profile/infinituscommunity.bsky.social>`_ 
 
 Online forums
 ^^^^^^^^^^^^^^^^^^
 
-	* `forums.infinitusministries.net <https://forums.infinitusministries.net/>`._ 
+	* `forums.infinitusministries.net <https://forums.infinitusministries.net/>`_ 
 
 
 Email
 ^^^^^^^^^^^^^^^^^^
 	
-	* `send an email regarding the Infinitus Community <https://spamty.eu/show/v7/201/4fb0dc4a77/>`._  
-	* `send an email about the Infinitus Explorations or Infinitus Media & Resources <https://spamty.eu/show/v7/202/4fae3eea65/>`._  
+	* `send an email regarding the Infinitus Community <https://spamty.eu/show/v7/201/4fb0dc4a77/>`_  
+	* `send an email about the Infinitus Explorations or Infinitus Media & Resources <https://spamty.eu/show/v7/202/4fae3eea65/>`_  
 
 
 

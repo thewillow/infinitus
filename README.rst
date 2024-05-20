@@ -7,7 +7,7 @@ This is cool since I can focus on writing instead of wasting time on designing a
 
 Putting this on Git also helps me with transparency and accountability, while also leaving valuable historical records about this project.  
 
-Follow us on `Instagram<https://instagram.com/infinituscommunity>`_ and `Threads<https://www.threads.net/@infinituscommunity>`_ at @infinituscommunity, or on `Pixelfed (or anywhere in the Fediverse) at @infinitus@shared.graphic<https://shared.graphic/infinitus.>`_!  
+Follow us on `Instagram <https://instagram.com/infinituscommunity>`_ and `Threads <https://www.threads.net/@infinituscommunity>`_ at @infinituscommunity, or on `Pixelfed (or anywhere in the Fediverse) at @infinitus@shared.graphic <https://shared.graphic/infinitus>`_!  
 
 
 Resources
