@@ -18,11 +18,11 @@ How it began
 -----------------------------------
 The seeds of Infinitus Ministries were sown in 2019 when I saw the dearth of spiritual life resources for autistic adults who are often alienated by conventional religious environments and by emotion-driven pop spirituality.  
 
-At the time, nearly all the resources that related to autism and religion were geared toward pastors and parents who needed to put up with their autistic children. There was one that served adult autistic Christians, but it was for Roman Catholics only.  
+At the time, nearly all the resources that related to autism and religion were geared toward pastors and parents who needed to put up with their autistic children. There was one that served adult autistic Christians, but it was `primarily for Roman Catholics only <https://autismconsecrated.com>`_.  
 
-According to the estimate by the Centers for Disease Control and Prevention in the United States, approximately 2.8 percent of the U.S. population may be autistic (a 2023 estimate). Based on the 2020 decennial census, this makes the autistic population a sizable minority group comparable to the Native Americans and Alaska Natives in size (2.9 percent) and a much larger group than Chinese Americans (1.58 percent).  
+According to the estimate by the Centers for Disease Control and Prevention in the United States, approximately `2.8 percent <https://www.cdc.gov/media/releases/2023/p0323-autism.html>`_ of the U.S. population may be autistic (a 2023 estimate). Based on the 2020 decennial census, this makes the autistic population a sizable minority group comparable to the Native Americans and Alaska Natives in size (2.9 percent) and a much larger group than Chinese Americans (1.58 percent).  
 
-So I reasoned: There are many Native American-centered churches and even more Chinese churches in the U.S., bringing their distinct cultures and lived experiences to faith and worship. For that matter, there are also deaf churches and LGBTQ+ churches. Why can't we have a church that is rooted in the distinctively autistic life?  
+So I reasoned: There are many `Native American <https://worship.calvin.edu/resources/resource-library/indigenous-christian-worship-resources-where-to-start>`_-centered churches and even more `Chinese churches in the U.S. <https://www.academia.edu/85864170/Chinese_American_Christianity_How_the_Ethnic_Specific_Church_Interacts_with_the_Processes_of_Migration_and_Americanization>`_, bringing their distinct cultures and lived experiences to faith and worship. For that matter, there are also `deaf churches <https://deafchurchwhere.com/>`_ and `LGBTQ+ churches <https://mccchurch.org/>`_. Why can't we have a church that is rooted in the distinctively autistic life, then?  
 
 For much of 2019, I played with this idea. I couldn't decide whether I should start a one-on-one spiritual direction practice and serve clients from all faith backgrounds or if I should plant a church that could be our own safe and empowering space. In September 2019, I branded the former "Mind Geographic" and prepared to test-market the spiritual direction service. But I soon entered an episode of severe autistic burnout, and then the worldwide COVID-19 pandemic began, putting all this on the back burner.   
 
@@ -52,7 +52,7 @@ What we do
 
 **Infinitus Ministries** is a joint brand of three distinctive work components:  
 
-#. **Infinitus Explorations (ix)** (formerly *Mind Geographic*) is a (sliding scale, trades welcome) fee-based spiritual direction practice helping clients clarify, discover, and expand their belief systems and grow in their faith. This service is open to everyone regardless of their religious beliefs and affiliations and does not proselytize. It is important to note that spiritual direction (also called spiritual companionship) is neither counseling nor personal coaching.  
+#. **Infinitus Explorations (ix)** (formerly *Mind Geographic*) is a (sliding scale, trades welcome) fee-based `spiritual direction practice <https://en.wikipedia.org/wiki/Spiritual_direction>`_ helping clients clarify, discover, and expand their belief systems and grow in their faith. This service is open to everyone regardless of their religious beliefs and affiliations and does not proselytize. It is important to note that spiritual direction (also called spiritual companionship) is neither counseling nor personal coaching.  
 #. **Infinitus Media & Ministries (im&r)** is a media and resources ministry creating educational content for the general public, as well as producing resources for church leaders helping them create a more inclusive and equitable environment in which autistic and other neurodivergent persons can flourish in the life and leadership of their churches. 
 #. **Infinitus Community (ic)** is a newly formed, independent, and post-denominational church led by neurodivergent people for neurodivergent people. Initially, Infinitus Community will be meeting in the Portland, Oregon metropolitan area but it is also our goal to organically multiply the church everywhere by cultivating local leadership!  
 
@@ -64,7 +64,7 @@ Social media
 ^^^^^^^^^^^^^^^^^^
 
 	* `Instagram @infinituscommunity <https://instagram.com/infinituscommunity>`_  
-	* `Threads @infinituscommunity <https://www.threads.net/@infinituscommunity>`_  
+	* `Threads @infinituscommunity <https://www.threads.net/@infinituscommunity>`_ - You *may* be able to follow this account from your Mastodon instance @infinituscommunity@threads.net.  
 	* `PixelFed @infinitus@shared.graphics <https://shared.graphics/infinitus>`_ - Fediverse - follow from Mastodon, Pleroma and Misskey too! 
 	* `BlueSky @infinituscommunity.bsky.social <https://bsky.app/profile/infinituscommunity.bsky.social>`_ 
 
@@ -73,6 +73,10 @@ Online forums
 
 	* `forums.infinitusministries.net <https://forums.infinitusministries.net/>`_ 
 
+Matrix  
+^^^^^^^^^^^^^^^^^^
+
+**Matrix** is a decentralized, open-source (and more private and secure!) group collaboration platform similar to Discord. Members and prospective members of Infinitus Community will have an access to this, as most member communications will take place there.   
 
 Email
 ^^^^^^^^^^^^^^^^^^
