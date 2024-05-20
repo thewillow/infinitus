@@ -6,14 +6,12 @@ Infinitus Ministries
 .. note:: 
 
 	**Infinitus Ministries** is a collective brand referring to three distinct things: *Infinitus Explorations*, *Infinitus Media & Resources*, and *Infinitus Community*. 	
-
-.. _intro:  
+ 
 Introduction  
 -----------------------------------
 
 **Infinitus Ministries** builds up the spiritual life of neurodivergent people of faith through personal spiritual direction practice, resources for church leaders, educational media, and an emergent faith community by and for neurodivergent folks.  
 
-.. _origin_story: 
 How it began  
 -----------------------------------
 The seeds of Infinitus Ministries were sown in 2019 when I saw the dearth of spiritual life resources for autistic adults who are often alienated by conventional religious environments and by emotion-driven pop spirituality.  
@@ -31,8 +29,7 @@ In 2021, I returned to school to train in ministry and to earn diplomas in minis
 On Pentecost Sunday, May 19, 2024, I officially present the vision, missions, and upcoming work of Infinitus Ministries. 
 
 *Willow.*  
-
-.. _vision:  
+ 
 Vision  
 -------------------------------------
 
@@ -40,13 +37,12 @@ Vision
 
 Infinitus Ministries is here to ignite the fourth wave of the Holy Spirit where justice, liberation, healing, happiness, and beauty flourish -- in a world where nobody will be marginalized anymore, and everyone will shine as splendid reflections of God's image.  
 
-.. _mission: 
+
 Mission
 -------------------------------------
 
 Infinitus Ministries is a prophetic mission of the Holy Spirit focused on community-building, advocacy, edification, education, and discipleship. We uplift the voices and lived experiences of neurodivergent people of faith, building up autonomous and self-propagating churches by and for the neurodivergent community, as well as working toward greater inclusion and equity for neurodivergent individuals in other faith communities of all traditions and theological backgrounds.  
 
-.. _work: 
 What we do
 -------------------------------------
 
