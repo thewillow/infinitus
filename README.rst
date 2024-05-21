@@ -1,7 +1,7 @@
 Infinitus Ministries  
 =======================================
 
-Hi, I am Willow. I am using this as a simple and geeky way to write documentation about Infinitus Ministries, including Infinitus Explorations, Infinitus Media & Resources, and Infinitus Community. The contents are automatically published at https://infinitus.readthedocs.org.  
+Hi, I am Willow. I am using this as a simple and geeky way to write documentation about Infinitus Ministries, including Infinitus Explorations, Infinitus Media & Resources, and Infinitus Community. The contents are automatically published at https://info.infinitusministries.net.   
 
 This is cool since I can focus on writing instead of wasting time on designing a website, having to learn to code, or struggling with the slow web-based, no-code CMS solutions.  
 
@@ -21,6 +21,8 @@ I use Pragma-Git_ to sync contents with Github_.
 Contents are edited with Geany_.  
 
 .. _Geany: https://www.geany.org/  
+
+Files are automatically rendered into an easy-to-read, easy-to-navigate, and responsively designed website thanks to `Read The Docs <https://about.readthedocs.com/>`_. 
 
 Contact
 --------  
