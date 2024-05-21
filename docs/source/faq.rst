@@ -63,8 +63,5 @@ General questions about Infinitus Ministries at large
 
 
 
-.. note::
-
-   This project is under active development. Last update: 2024-05-20 
 
 

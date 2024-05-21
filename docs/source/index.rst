@@ -53,7 +53,7 @@ What we do
 **Infinitus Ministries** is a joint brand of three distinctive work components:  
 
 #. **Infinitus Explorations (ix)** (formerly *Mind Geographic*) is a (sliding scale, trades welcome) fee-based `spiritual direction practice <https://en.wikipedia.org/wiki/Spiritual_direction>`_ helping clients clarify, discover, and expand their belief systems and grow in their faith. This service is open to everyone regardless of their religious beliefs and affiliations and does not proselytize. It is important to note that spiritual direction (also called spiritual companionship) is neither counseling nor personal coaching.  
-#. **Infinitus Media & Ministries (im&r)** is a media and resources ministry creating educational content for the general public, as well as producing resources for church leaders helping them create a more inclusive and equitable environment in which autistic and other neurodivergent persons can flourish in the life and leadership of their churches. 
+#. **Infinitus Media & Resources (im&r)** is a media and resources ministry creating educational content for the general public, as well as producing resources for church leaders helping them create a more inclusive and equitable environment in which autistic and other neurodivergent persons can flourish in the life and leadership of their churches. 
 #. **Infinitus Community (ic)** is a newly formed, independent, and post-denominational church led by neurodivergent people for neurodivergent people. Initially, Infinitus Community will be meeting in the Portland, Oregon metropolitan area but it is also our goal to organically multiply the church everywhere by cultivating local leadership!  
 
 
