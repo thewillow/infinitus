@@ -62,6 +62,8 @@ General questions about Infinitus Ministries at large
 	Infinitus Community is being organized as a `free church <https://web.archive.org/web/20240302183441/https://hushmoney.org/free-church_solution.htm>`_ not dependent on the regulatory powers of the state and governed organically based on member consensus and direct participation, inspired by the ethos of Independent General Baptists, Quakers, Catholic Workers Movement, and the Christian anarchists. To us, the church is neither a building nor a corporation, but rather a chosen family united in the Spirit, relating organically to one another to build up one another. 
 
 
+.. image:: https://infinituscommunity.goatcounter.com/count?p=/test
+
 
 
 

@@ -14,8 +14,8 @@ lorem ipsum
 
 
 
-.. note::
+.. image:: https://infinituscommunity.goatcounter.com/count?p=/test
 
-   This project is under active development. Last update: 2024-05-19 
+
 
 

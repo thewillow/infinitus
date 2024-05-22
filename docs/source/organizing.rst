@@ -13,9 +13,6 @@ Introduction
 lorem ipsum  
 
 
-
-.. note::
-
-   This project is under active development. Last update: 2024-05-19 
+.. image:: https://infinituscommunity.goatcounter.com/count?p=/test
 
 
