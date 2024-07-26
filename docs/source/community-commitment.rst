@@ -48,11 +48,10 @@ This awareness leads to our collective commitment to uplift this community by:
 Non-discrimination policy:
 ==========================
 
-Infinitus Ministries does not discriminate on the basis of race, color,
-national origin, sex, pregnancy, age, disability, socioeconomic class,
-nationality, citizenship or immigration status, religious traditions or
-lack thereof, sexual orientation, gender identity, gender expression,
-veteran status, political affiliation, or political philosophy; it takes
+Infinitus Ministries does not discriminate on the basis of race, color, ethnic or cultural backgrounds, 
+national origin, sex, pregnancy, age, disability, socioeconomic class, nationality, citizenship or immigration status, 
+religious traditions or lack thereof, sexual orientation, gender identity, gender expression, veteran status, familial status, 
+political affiliation, or political philosophy; it takes
 affirmative action to increase ethnic, cultural, and gender diversity.
 Infinitus Ministries reserves the right to be the sole interpreter of
 this statement should the need arise. As a faith-based community,
@@ -63,7 +62,10 @@ Infinitus Ministries strives to create a welcoming, equitable, and
 accessible environment for all and to provide reasonable accommodations
 or alternative programming whenever possible, this may be limited due to
 our financial, personnel, time, and resource constraints, and/or any
-limitations and restrictions imposed by external parties.
+limitations and restrictions imposed by external parties. Furthermore, Infinitus Ministries 
+reserves rights to create and offer programs and group activities geared toward a specific 
+target population or shared lived experiences, which may be open only to eligible individuals 
+that meet a specific criteria related to the purpose and intentions of such programs or groups. 
 
 --------------
 
