@@ -32,9 +32,9 @@ As such, we are always mindful of the following facts:
 This awareness leads to our collective commitment to uplift this community by:
 ------------------------------------------------------------------------------
 
-1. Intentionally championing solidarity and economic development among
+1. Intentionally championing solidarity, mutual aid, and economic development among
    the neurodivergent people within our community and beyond. We do this
-   through promoting networking, collaboration, and cultivation of
+   through promoting networking, collaboration, facilitation of mutual aid programs, and cultivation of
    entrepreneurial, community-based social enterprises.
 2. Creating an open and welcoming environment for people of all genders,
    familial configurations, and sexual orientations, actively countering
