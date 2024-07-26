@@ -88,7 +88,7 @@ Email
 
 .. note::
 
-   This project is under active development. Last update: 2024-05-21 
+   This project is under active development. Last update: 2024-07-26  
 
 .. image:: https://infinituscommunity.goatcounter.com/count?p=/test
 
@@ -100,6 +100,7 @@ Contents
 	index
 	distinctives
 	organizing
+	community-commitment
 	faq
 
 

@@ -41,8 +41,9 @@ This awareness leads to our collective commitment to uplift this community by:
    sexist gender norms and cisheteronormativity.
 3. Cultivating an intentional space where one is free to think
    critically and explore one’s intellectual and spiritual curiosities.
-4. Advocate for alternative educational opportunities and leadership
+4. Advocating for alternative educational opportunities and leadership
    development processes for church leadership.
+5. Aiming for creating and cultivating a space for inclusion, belonging, repair and healing at all stages of our development and growth as a community.     
 
 Non-discrimination policy:
 ==========================
@@ -55,7 +56,7 @@ veteran status, political affiliation, or political philosophy; it takes
 affirmative action to increase ethnic, cultural, and gender diversity.
 Infinitus Ministries reserves the right to be the sole interpreter of
 this statement should the need arise. As a faith-based community,
-Infinitus Ministries reserve rights to select and appoint to its
+Infinitus Ministries reserves rights to select and appoint to its
 community leadership and ministry positions those whose faith,
 commitment, theology, and values align with those of Infinitus. While
 Infinitus Ministries strives to create a welcoming, equitable, and
@@ -91,4 +92,13 @@ Notes:
    https://www.psychologytoday.com/gb/blog/psyched/201205/does-autism-lead-to-atheism
 -  North East Autism Society (n.d.) Autistic students most likely to
    drop out of university: investigation. North East Autism Society.
-   https://www.ne-as.org.uk/news/autistic-students-most-likely-to-drop-out-of-university-investigation
+   https://www.ne-as.org.uk/news/autistic-students-most-likely-to-drop-out-of-university-investigation  
+
+The fifth commitment is in part inspired by the `"Q+ Framework" <https://seattlequest.org/wp-content/uploads/2022/06/Q-Framework.pdf>`_ of Seattle Quest Church, though we expand this framework beyond sexual orientation and gender identity. Infinitus Ministries is neither affiliated with Quest nor with the Evangelical Covenant Church (Quest's former denomination) in any way, however.  
+
+
+.. note::
+
+   This project is under active development. Last update: 2024-07-26  
+
+.. image:: https://infinituscommunity.goatcounter.com/count?p=/test
