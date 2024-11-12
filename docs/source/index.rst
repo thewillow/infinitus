@@ -5,6 +5,10 @@ Infinitus Ministries
 
 .. note:: 
 
+	Subscribe to our newsletter, **Boundless Expeditions** on Substack! <https://willowinfinitus.substack.com>`_ (or <https://be.infinitusministries.net>`_  
+	
+.. note:: 
+
 	**infinitusministries.net** and **www.infinitusministries.net** redirect to here. For our online forums, go to `forums.infinitusministries.net <https://forums.infinitusministries.net>`_.  
 
 .. note:: 
@@ -60,8 +64,18 @@ What we do
 Connect
 -------------------------------------
 
+Digital newsletter
+^^^^^^^^^^^^^^^^^^^
+
+	**Boundless Expeditions** is the digital newsletter of Infinitus Ministries.  
+	
+	* Subscribe (read on email, on the Web, or Substack app): <https://willowinfinitus.substack.com>`_   
+	* Subscribe via an RSS reader of your choice: <https://willowinfinitus.substack.com/feed>`_  
+
 Social media
 ^^^^^^^^^^^^^^^^^^
+
+We apologize for being inactive on these platforms lately. We recommend following/subscribing to our Substack, "Boundless Expeditions," and Substack Notes @willowinfinitus.   
 
 	* `Instagram @infinituscommunity <https://instagram.com/infinituscommunity>`_  
 	* `Threads @infinituscommunity <https://www.threads.net/@infinituscommunity>`_ - You *may* be able to follow this account from your Mastodon instance @infinituscommunity@threads.net.  
@@ -71,12 +85,23 @@ Social media
 Online forums
 ^^^^^^^^^^^^^^^^^^
 
-	* `forums.infinitusministries.net <https://forums.infinitusministries.net/>`_ 
+	The online forums on TapaTalk has been discontinued as of Nov. 11, 2024. Join us on Matrix, or at our new Infinitus Fireside group on Signal.  
 
 Matrix  
 ^^^^^^^^^^^^^^^^^^
 
 **Matrix** is a decentralized, open-source (and more private and secure!) group collaboration platform similar to Discord. Members and prospective members of Infinitus Community will have an access to this, as most member communications will take place there.   
+
+Infinitus Fireside, a private and secure group chat on Signal  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+	Now open (Nov. 12, 2024)!  
+	
+	This is our new private, encrypted group chat (also allows voice and video calls!) on Signal. To join, you will need a Signal app on your smartphone (Android or iOS), but there are also desktop clients for Linux, Windows, and MacOS (you will still need a smartphone and an active mobile phone number to create an account).  
+	
+	To join, go to <https://fireside.infinitusministries.net>`_  
+	
+	Your membership request must be approved by an admin, so we may ask you a few questions one-on-one (on Signal) before we let you join.  
 
 Email
 ^^^^^^^^^^^^^^^^^^
@@ -88,7 +113,7 @@ Email
 
 .. note::
 
-   This project is under active development. Last update: 2024-07-30  
+   This project is under active development. Last update: 2024-11-12    
 
 .. image:: https://infinituscommunity.goatcounter.com/count?p=/test
 
@@ -103,10 +128,3 @@ Contents
 	roadmap
 	community-commitment
 	faq
-
-
-
-
-
-
-
