@@ -5,15 +5,11 @@ Infinitus Ministries
 
 .. note:: 
 
-	`Subscribe to our newsletter, **Boundless Expeditions** on Substack! <https://willowinfinitus.substack.com>`_ (or `be.infinitusministres.net) <https://be.infinitusministries.net>`_  
+	`Subscribe to our newsletter, "Boundless Expeditions" on Substack! <https://willowinfinitus.substack.com>`_ (or `be.infinitusministres.net) <https://be.infinitusministries.net>`_  
 	
 .. note:: 
 
-	**infinitusministries.net** and **www.infinitusministries.net** redirect to here. For our online forums, go to `forums.infinitusministries.net <https://forums.infinitusministries.net>`_.  
-
-.. note:: 
-
-	**Infinitus Ministries** is a collective brand referring to three distinct things: *Infinitus Explorations*, *Infinitus Media & Resources*, and *Infinitus Community*. This documentation site outlines the overarching vision, missions, and aims of Infinitus, as well as the common foundational elements such as distinctives and values. Beyond those, this site will focus primarily on our community initiatives and how you can participate in and be part of this new community. As Infinitus Community grows, this will be where we will be publishing governance-related documents, policies, and manuals (we eschew bureaucracy so we'll be light on those, though!) for the sake of transparency. Since the docs are recorded on `Github <https://github.com/thewillow/infinitus>`_, one can review past changes and history. Contents specific to *Infinitus Media & Resources* will be hosted elsewhere on other platforms, such as Substack and Spotify.  	
+	**Infinitus Ministries** is a collective brand referring to two distinct things: *Infinitus Explorations*, and *Infinitus Community*. This documentation site outlines the overarching vision, missions, and aims of Infinitus, as well as the common foundational elements such as distinctives and values. Beyond those, this site will focus primarily on our community initiatives and how you can participate in and be part of this new community. As Infinitus Community grows, this will be where we will be publishing governance-related documents, policies, and manuals (we eschew bureaucracy so we'll be light on those, though!) for the sake of transparency. Since the docs are recorded on `Github <https://github.com/thewillow/infinitus>`_, one can review past changes and history. Contents specific to *Infinitus Explorations* will be hosted elsewhere on other platforms, such as Substack and Spotify.  	
  
 Introduction  
 -----------------------------------
@@ -54,11 +50,12 @@ Infinitus Ministries is a prophetic mission of the Holy Spirit focused on commun
 What we do
 -------------------------------------
 
-**Infinitus Ministries** is a joint brand of three distinctive work components:  
+**Infinitus Ministries** is a joint brand of two distinctive work components:  
 
-#. **Infinitus Explorations (ix)** (formerly *Mind Geographic*) is a (sliding scale, trades welcome) fee-based `spiritual direction practice <https://en.wikipedia.org/wiki/Spiritual_direction>`_ helping clients clarify, discover, and expand their belief systems and grow in their faith. This service is open to everyone regardless of their religious beliefs and affiliations and does not proselytize. It is important to note that spiritual direction (also called spiritual companionship) is neither counseling nor personal coaching.  
-#. **Infinitus Media & Resources (im&r)** is a media and resources ministry creating educational content for the general public, as well as producing resources for church leaders helping them create a more inclusive and equitable environment in which autistic and other neurodivergent persons can flourish in the life and leadership of their churches. 
+#. **Infinitus Explorations (ix)** (formerly *Mind Geographic*) is a (sliding scale, trades welcome) fee-based `spiritual direction practice <https://en.wikipedia.org/wiki/Spiritual_direction>`_ helping clients clarify, discover, and expand their belief systems and grow in their faith. This service is open to everyone regardless of their religious beliefs and affiliations and does not proselytize. It is important to note that spiritual direction (also called spiritual companionship) is neither counseling nor personal coaching. In addition, Infinitus Explorations is media and resources productions creating educational content for the general public, as well as producing resources for church leaders helping them create a more inclusive and equitable environment in which autistic and other neurodivergent persons can flourish in the life and leadership of their churches. 
 #. **Infinitus Community (ic)** is a newly formed, independent, and post-denominational church led by neurodivergent people for neurodivergent people. Initially, Infinitus Community will be meeting in the Portland, Oregon metropolitan area but it is also our goal to organically multiply the church everywhere by cultivating local leadership!  
+
+Infinitus Explorations is a for-profit business enterprise component, while Infinitus Community is a not-for-profit ecclesiastical entity. The work of the latter is to be financed by the former.   
 
 
 Connect
@@ -117,7 +114,7 @@ Email
 
 .. note::
 
-   This project is under active development. Last update: 2024-11-12    
+   This project is under active development. Last update: 2025-01-01    
 
 .. image:: https://infinituscommunity.goatcounter.com/count?p=/test
 
