@@ -5,7 +5,7 @@ Infinitus Ministries
 
 .. note:: 
 
-	Subscribe to our newsletter, **Boundless Expeditions** on Substack! <https://willowinfinitus.substack.com>`_ (or <https://be.infinitusministries.net>`_  
+	`Subscribe to our newsletter, **Boundless Expeditions** on Substack! <https://willowinfinitus.substack.com>`_ (or `be.infinitusministres.net) <https://be.infinitusministries.net>`_  
 	
 .. note:: 
 
@@ -69,8 +69,8 @@ Digital newsletter
 
 	**Boundless Expeditions** is the digital newsletter of Infinitus Ministries.  
 	
-	* Subscribe (read on email, on the Web, or Substack app): <https://willowinfinitus.substack.com>`_   
-	* Subscribe via an RSS reader of your choice: <https://willowinfinitus.substack.com/feed>`_  
+	* `Subscribe (read on email, on the Web, or Substack app) <https://willowinfinitus.substack.com>`_   
+	* `Subscribe via an RSS reader of your choice <https://willowinfinitus.substack.com/feed>`_  
 
 Social media
 ^^^^^^^^^^^^^^^^^^
@@ -99,7 +99,7 @@ Infinitus Fireside, a private and secure group chat on Signal
 	
 	This is our new private, encrypted group chat (also allows voice and video calls!) on Signal. To join, you will need a Signal app on your smartphone (Android or iOS), but there are also desktop clients for Linux, Windows, and MacOS (you will still need a smartphone and an active mobile phone number to create an account).  
 	
-	To join, go to <https://fireside.infinitusministries.net>`_  
+	To join, go to `fireside.infinitusministries.net <https://fireside.infinitusministries.net>`_  
 	
 	Your membership request must be approved by an admin, so we may ask you a few questions one-on-one (on Signal) before we let you join.  
 
