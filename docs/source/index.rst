@@ -5,7 +5,7 @@ Infinitus Ministries
 
 .. note:: 
 
-	`Subscribe to our newsletter, "Boundless Expeditions," on Substack! <https://willowinfinitus.substack.com>`_ (or `be.infinitusministres.net) <https://be.infinitusministries.net>`_  
+	`Subscribe to our newsletter, **Boundless Expeditions** on Substack! <https://willowinfinitus.substack.com>`_ (or `be.infinitusministres.net) <https://be.infinitusministries.net>`_  
 	
 .. note:: 
 
@@ -97,11 +97,15 @@ Infinitus Fireside, a private and secure group chat on Signal
 
 	Now open (Nov. 12, 2024)!  
 	
-	This is our new private, encrypted group chat (also allows voice and video calls!) on Signal. To join, you will need a Signal app on your smartphone (Android or iOS), but there are also desktop clients for Linux, Windows, and MacOS (you will still need a smartphone and an active mobile phone number to create an account).  
+	This is our new private, encrypted group chat (also allows voice and video calls!) on Signal. To join, you will need a Signal app on your smartphone (Android or iOS), but there are also desktop clients for Linux (Debian-based systems only, e.g., Ubuntu, LinuxMint, and Chromebook's Linux Environment) and Windows (you will still need a smartphone and an active mobile phone number to create an account).  
 	
 	To join, go to `fireside.infinitusministries.net <https://fireside.infinitusministries.net>`_  
 	
 	Your membership request must be approved by an admin, so we may ask you a few questions one-on-one (on Signal) before we let you join.  
+
+	- `Install Signal <https://signal.org/download/>`_  
+	- `Signal technical support <https://support.signal.org/hc/en-us>`_ 
+	- `A beginner video tutorial <https://www.youtube.com/watch?v=IYCG89ijY64>`_  
 
 Email
 ^^^^^^^^^^^^^^^^^^
