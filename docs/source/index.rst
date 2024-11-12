@@ -5,7 +5,7 @@ Infinitus Ministries
 
 .. note:: 
 
-	`Subscribe to our newsletter, **Boundless Expeditions** on Substack! <https://willowinfinitus.substack.com>`_ (or `be.infinitusministres.net) <https://be.infinitusministries.net>`_  
+	`Subscribe to our newsletter, "Boundless Expeditions," on Substack! <https://willowinfinitus.substack.com>`_ (or `be.infinitusministres.net) <https://be.infinitusministries.net>`_  
 	
 .. note:: 
 
