@@ -114,9 +114,11 @@ Email
 
 .. note::
 
-   This project is under active development. Last update: 2025-01-01    
+   This project is under active development. Last update: 2025-01-02    
 
-.. image:: https://infinituscommunity.goatcounter.com/count?p=/test
+.. image:: https://infinituscommunity.goatcounter.com/count?p=/test-noscript#pixel.png
+	:alt: (stat)
+	:align: right
 
 Contents
 --------
