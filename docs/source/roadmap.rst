@@ -11,30 +11,31 @@ based on discernment and careful assessment of our resources.
 
 | **Abbreviations:**
 | - IC: Infinitus Community
-| - IMR: Infinitus Media and Resources
 | - IX: Infinitus Explorations
 
-Summer 2024 (August-September 2024)
+First quarter 2025  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  IC: Discipleship/spiritual development programming for autistic
    Christians (digital).
--  IMR: Re-launch of the Little Free Seminary content (text; podcast
+-  IX: Re-launch of the Little Free Seminary content (text; podcast
    will not resume at this stage).
 -  IC: Gauging interest for in-person, informal gatherings in the
    Portland (Oregon) metropolitan area.
+-  IX: Creation of a neurodivergent inclusion guide for local churches.
+-  IX: Initial opening of spiritual direction appointments.
 
-Autumn 2024 (September-December 2024)
+Second quarter 2025
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  IMR: Creation of a neurodivergent inclusion guide for local churches.
 -  IC: Possible informal, low-key meet-up in the Portland metropolitan
    area.
 -  IC: Opening of a structured online community (on Matrix).
 -  IC: Discipleship programming continues (digital).
--  IX: Initial opening of spiritual direction appointments.
+-  IC: Planning for summer outdoor gatherings (to take place in July and
+   August).
 
-Winter 2024-2025 (December 2024-March 2025)
+Third quarter 2025
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  IMR: Content creation to be on a regular schedule, establishing
@@ -45,20 +46,19 @@ Winter 2024-2025 (December 2024-March 2025)
 -  IC: Discipleship programming continues (digital and possibly in
    person).
 
-Spring 2025 (March-June 2025)
+Fourth quarter 2025
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  IC: Begin identification and cultivation of potential community
    leaders to delegate some of the tasks.
--  IC: Planning for summer outdoor gatherings (to take place in July and
-   August).
 
 **This is a “living document” and is always a work in progress.**
 
 .. note::
 
-   This project is under active development. Last update: 2024-07-30 
+   This project is under active development. Last update: 2025-01-02
 
-.. image:: https://infinituscommunity.goatcounter.com/count?p=/test
-
-
+.. image:: https://infinituscommunity.goatcounter.com/count?p=/test-noscript#pixel.png
+	:alt: (stat)
+	:align: right
+	
