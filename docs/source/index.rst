@@ -77,7 +77,7 @@ We apologize for being inactive on these platforms lately. We recommend followin
 	* `Instagram @infinituscommunity <https://instagram.com/infinituscommunity>`_  
 	* `Threads @infinituscommunity <https://www.threads.net/@infinituscommunity>`_ - You *may* be able to follow this account from your Mastodon instance @infinituscommunity@threads.net.  
 	* `PixelFed @infinitus@shared.graphics <https://shared.graphics/infinitus>`_ - Fediverse - follow from Mastodon, Pleroma and Misskey too! 
-	* `BlueSky @infinituscommunity.bsky.social <https://bsky.app/profile/infinituscommunity.bsky.social>`_ 
+	* `BlueSky @willow.infinitusministries.net  <https://bsky.app/profile/willow.infinitusministries.net>`_ 
 
 Online forums
 ^^^^^^^^^^^^^^^^^^
