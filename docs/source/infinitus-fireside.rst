@@ -1,16 +1,16 @@
 ===================================
-Infinitus Fireside    
+Infinitus Fireside/Wellside      
 ===================================
 
-Infinitus Fireside Community Signal and SimpleX Groups Ground rules and guidelines
+Infinitus Fireside/Wellside Community Signal and SimpleX Groups Ground rules and guidelines
 ------------------------------------
 
-*Version 2.0.0, effective Thursday, Aug. 7, 2025*  
+*Version 2.0.1, effective Thursday, Aug. 7, 2025 (minor housekeeping edit on Aug. 11, 2025)*  
 
 
 1. Introduction and purposes
 
-The Infinitus Fireside Community Signal and SimpleX Groups are private and encrypted online groups hosted on Signal and SimpleX, respectively. The former is referred to as the "Infinitus Fireside" group, the latter the "Infinitus Wellside" group. 
+The Infinitus community online chat groups are private and encrypted online groups hosted on Signal and SimpleX, respectively. The former is referred to as the "Infinitus Fireside" group, the latter the "Infinitus Wellside" group. 
 
 The primary purposes of this group are:
 

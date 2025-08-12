@@ -3,7 +3,9 @@ Infinitus Ministries
 
 **Welcome to Infinitus!**  
 
-.. note:: 
+.. note::  
+
+	We are planning for our community gatherings in the near future! These meetings will be both in-person and virtually. If you are interested, `please fill out this interest form! <https://form.jotform.com/252207850082048>`_  
 
 	`Subscribe to our newsletter, "Boundless Expeditions" on Substack! <https://willowinfinitus.substack.com>`_ (or `be.infinitusministres.net) <https://be.infinitusministries.net>`_  
 	
